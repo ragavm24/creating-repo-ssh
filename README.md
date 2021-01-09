@@ -1,1 +1,1 @@
-Creating repo
+Creating repo and uploading via ssh
